@@ -1,0 +1,99 @@
+transaction_date,merchant,category_name,amount,transaction_type,notes
+2025-01-02,Tim Hortons,Food,5.45,Expense,Coffee
+2025-01-03,GO Transit,Transportation,12.60,Expense,Commute
+2025-01-05,No Frills,Groceries,64.20,Expense,Groceries
+2025-01-07,Amazon,Shopping,42.15,Expense,Online purchase
+2025-01-10,Part-Time Job,Income,430.00,Income,Paycheck
+2025-01-11,Chipotle,Food,13.50,Expense,Lunch
+2025-01-12,GoodLife Fitness,Fitness,34.99,Expense,Gym membership
+2025-01-14,Uber,Transportation,18.75,Expense,Ride
+2025-01-15,Spotify,Subscription,9.99,Expense,Music
+2025-01-18,Walmart,Groceries,72.10,Expense,Groceries
+2025-01-20,Starbucks,Food,6.25,Expense,Coffee
+2025-01-22,Part-Time Job,Income,490.00,Income,Paycheck
+2025-01-24,Best Buy,Shopping,120.00,Expense,Electronics
+2025-01-26,GO Transit,Transportation,12.60,Expense,Commute
+2025-01-28,No Frills,Groceries,58.30,Expense,Groceries
+
+2025-02-01,Tim Hortons,Food,4.95,Expense,Coffee
+2025-02-02,GO Transit,Transportation,12.60,Expense,Commute
+2025-02-03,Amazon,Shopping,25.99,Expense,Online purchase
+2025-02-05,No Frills,Groceries,62.40,Expense,Groceries
+2025-02-08,Part-Time Job,Income,500.00,Income,Paycheck
+2025-02-09,McDonalds,Food,9.75,Expense,Meal
+2025-02-10,Uber,Transportation,16.50,Expense,Ride
+2025-02-12,GoodLife Fitness,Fitness,34.99,Expense,Gym
+2025-02-14,Netflix,Subscription,15.99,Expense,Streaming
+2025-02-15,Freelance Work,Income,200.00,Income,Side project
+2025-02-16,Walmart,Groceries,70.20,Expense,Groceries
+2025-02-18,Starbucks,Food,5.80,Expense,Coffee
+2025-02-20,Part-Time Job,Income,400.00,Income,Paycheck
+2025-02-22,Amazon,Shopping,60.00,Expense,Online purchase
+2025-02-25,GO Transit,Transportation,12.60,Expense,Commute
+2025-02-27,No Frills,Groceries,55.10,Expense,Groceries
+
+2025-03-01,Tim Hortons,Food,5.15,Expense,Coffee
+2025-03-02,GO Transit,Transportation,12.60,Expense,Commute
+2025-03-04,Walmart,Groceries,68.75,Expense,Groceries
+2025-03-05,Amazon,Shopping,39.99,Expense,Online purchase
+2025-03-07,Part-Time Job,Income,465.10,Income,Paycheck
+2025-03-08,Chipotle,Food,12.95,Expense,Lunch
+2025-03-10,Uber,Transportation,20.10,Expense,Ride
+2025-03-12,GoodLife Fitness,Fitness,34.99,Expense,Gym
+2025-03-14,Spotify,Subscription,9.99,Expense,Music
+2025-03-16,No Frills,Groceries,63.50,Expense,Groceries
+2025-03-18,Starbucks,Food,6.40,Expense,Coffee
+2025-03-20,Part-Time Job,Income,432.00,Income,Paycheck
+2025-03-20,Tutoring,Income,150.00,Income,Math tutoring
+2025-03-22,Best Buy,Shopping,150.00,Expense,Tech
+2025-03-25,GO Transit,Transportation,12.60,Expense,Commute
+2025-03-28,No Frills,Groceries,59.20,Expense,Groceries
+
+2025-04-01,Tim Hortons,Food,5.25,Expense,Coffee
+2025-04-02,GO Transit,Transportation,12.60,Expense,Commute
+2025-04-04,Walmart,Groceries,71.10,Expense,Groceries
+2025-04-06,Amazon,Shopping,48.50,Expense,Online purchase
+2025-04-08,Part-Time Job,Income,421.40,Income,Paycheck
+2025-04-10,McDonalds,Food,10.25,Expense,Meal
+2025-04-12,Uber,Transportation,17.80,Expense,Ride
+2025-04-14,GoodLife Fitness,Fitness,34.99,Expense,Gym
+2025-04-16,Netflix,Subscription,15.99,Expense,Streaming
+2025-04-18,No Frills,Groceries,60.90,Expense,Groceries
+2025-04-20,Starbucks,Food,6.10,Expense,Coffee
+2025-04-22,Part-Time Job,Income,413.00,Income,Paycheck
+2025-04-24,Amazon,Shopping,75.00,Expense,Online purchase
+2025-04-26,GO Transit,Transportation,12.60,Expense,Commute
+2025-04-28,No Frills,Groceries,57.80,Expense,Groceries
+
+2025-05-01,Tim Hortons,Food,5.00,Expense,Coffee
+2025-05-02,GO Transit,Transportation,12.60,Expense,Commute
+2025-05-04,Walmart,Groceries,69.40,Expense,Groceries
+2025-05-06,Amazon,Shopping,52.75,Expense,Online purchase
+2025-05-08,Part-Time Job,Income,493.50,Income,Paycheck
+2025-05-10,Chipotle,Food,13.10,Expense,Lunch
+2025-05-12,Uber,Transportation,19.25,Expense,Ride
+2025-05-14,GoodLife Fitness,Fitness,34.99,Expense,Gym
+2025-05-16,Spotify,Subscription,9.99,Expense,Music
+2025-05-18,No Frills,Groceries,61.70,Expense,Groceries
+2025-05-18,Freelance Work,Income,300.00,Income,Client project
+2025-05-20,Starbucks,Food,6.35,Expense,Coffee
+2025-05-22,Part-Time Job,Income,407.20,Income,Paycheck
+2025-05-24,Best Buy,Shopping,130.00,Expense,Electronics
+2025-05-26,GO Transit,Transportation,12.60,Expense,Commute
+2025-05-28,No Frills,Groceries,58.60,Expense,Groceries
+
+2025-06-01,Tim Hortons,Food,5.10,Expense,Coffee
+2025-06-02,GO Transit,Transportation,12.60,Expense,Commute
+2025-06-04,Walmart,Groceries,73.25,Expense,Groceries
+2025-06-06,Amazon,Shopping,45.20,Expense,Online purchase
+2025-06-08,Part-Time Job,Income,450.00,Income,Paycheck
+2025-06-10,McDonalds,Food,9.90,Expense,Meal
+2025-06-12,Uber,Transportation,18.40,Expense,Ride
+2025-06-14,GoodLife Fitness,Fitness,34.99,Expense,Gym
+2025-06-16,Netflix,Subscription,15.99,Expense,Streaming
+2025-06-18,No Frills,Groceries,62.80,Expense,Groceries
+2025-06-20,Starbucks,Food,6.15,Expense,Coffee
+2025-06-22,Part-Time Job,Income,461.35,Income,Paycheck
+2025-06-24,Amazon,Shopping,80.00,Expense,Online purchase
+2025-06-26,GO Transit,Transportation,12.60,Expense,Commute
+2025-06-28,No Frills,Groceries,59.75,Expense,Groceries
