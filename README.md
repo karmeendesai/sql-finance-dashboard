@@ -2,13 +2,13 @@
 
 An end-to-end data analytics project that transforms raw transaction data into actionable financial insights using SQL, Python, and interactive visualization.
 
-This project demonstrates the full pipeline: data ingestion -> database design -> SQL querying -> analytics -> dashboard visualization.
+This project demonstrates the complete analytics pipeline from raw data ingestion to interactive dashboard visualization.
 
 ---
 
 ## Key Features
 
-- Built a **relational SQLite databse** from transaction-level data
+- Built a **relational SQLite database** from transaction-level data
 - Wrote optimized **SQL queries** to compute financial metrics
 - Developed an **interactive Streamlit dashboard**
 - Implemented dynamic **filters** (category, transaction type, date range)
@@ -19,10 +19,10 @@ This project demonstrates the full pipeline: data ingestion -> database design -
     - Savings Rate
 - Visualized:
     - Category-level spending breakdown
-    - Montly income vs expenses vs savings trends
+    - Monthly Income vs Expenses vs Savings Trends
     - Spending distribution
     - Top merchants by spend
-- Designed for **real-time exploration of financial behavior**
+- Designed for **interactive exploration of financial trends and spending behavior**
 
 ---
 
@@ -45,7 +45,7 @@ This project demonstrates the full pipeline: data ingestion -> database design -
 ## Technical Highlights
 
 - **SQL-first design**: Core computations (aggregations, grouping, filtering) handled in SQL
-- **Seperation of concerns**:
+- **Separation of concerns**:
     - `create_database.py` -> data ingestion
     - `queries.py` -> SQL logic
     - `app.py` -> visualization layer
@@ -53,8 +53,8 @@ This project demonstrates the full pipeline: data ingestion -> database design -
     - CSV -> SQLite -> pandas -> dashboard
 - Efficient use of:
     - `GROUP BY`, `SUM`, filtering
-    - Joins / merges for monthly aggregation
-- Built reusable query functions for modular analytics
+    - Joins and monthly aggregations
+- Built reusable SQL query functions to support modular analytics workflows
 
 ---
 
@@ -62,7 +62,7 @@ This project demonstrates the full pipeline: data ingestion -> database design -
 
 - **Python**
 - **SQLite / SQL**
-- **pandas**
+- **Pandas**
 - **Streamlit**
 - **Plotly**
 
@@ -75,10 +75,17 @@ sql-finance-dashboard/
 ├── app.py                      # Streamlit dashboard
 ├── create_database.py          # Builds SQLite database
 ├── queries.py                  # SQL query functions
-├── README.md
 ├── requirements.txt
 ├── README.md
 ├── data/
 │   ├── sample_transactions.csv
 │   └── finance.db
 └── screenshots/
+```
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
