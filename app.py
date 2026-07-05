@@ -178,7 +178,7 @@ with left:
             y="total_spent",
             title="Total Spending by Category"
         )
-        st.plotly_chart(fig_category, use_container_width=True)
+        st.plotly_chart(fig_category)
     else:
         st.info("No expense data available for the selected filters.")
 
@@ -193,7 +193,7 @@ with right:
             markers=True,
             title="Monthly Financial Trend"
         )
-        st.plotly_chart(fig_monthly, use_container_wdith=True)
+        st.plotly_chart(fig_monthly)
     else:
         st.info("No monthly data available for the selected filters.")
 
@@ -212,17 +212,17 @@ with left2:
             values="total_spent",
             title="Spending Distribution by Category"
         )
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie)
     else:
         st.info("No expense data available for the selected filters.")
 
 # displays the top merchants table
 with right2:
     st.subheader("Top Spending Merchants")
-    st.dataframe(merchant_df, use_container_width=True)
+    st.dataframe(merchant_df)
 
 st.divider()
 
 # displays the filtered transactions table
 st.subheader("Transaction History")
-st.dataframe(filtered_df, use_container_width=True)
+st.dataframe(filtered_df)
