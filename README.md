@@ -1,4 +1,5 @@
 # SQL-Powered Personal Finance Dashboard
+**Live Demo** [Click here](https://sql-finance-dashboard-mga4dh74ngpibwnvw7knqi.streamlit.app/)
 
 An end-to-end data analytics project that transforms raw transaction data into actionable financial insights using SQL, Python, and interactive visualization.
 
