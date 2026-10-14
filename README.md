@@ -45,7 +45,7 @@ This project demonstrates the complete analytics pipeline from raw data ingestio
 
 ## Technical Highlights
 
-- **SQL-backed design**: Transaction data is stored and quiered in SQLite, with interactive filtering and analytics performed in pandas
+- **SQL-backed design**: Transaction data is stored and queried in SQLite, with interactive filtering and analytics performed in pandas
 - **Separation of concerns**:
     - `create_database.py` -> data ingestion
     - `queries.py` -> SQL logic
