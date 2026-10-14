@@ -54,7 +54,7 @@ This project demonstrates the complete analytics pipeline from raw data ingestio
     - CSV -> SQLite -> pandas -> dashboard
 - Efficient use of:
     - `GROUP BY`, `SUM`, filtering
-    - Joins and monthly aggregations
+    - Monthly aggregations & pandas merges
 - Built reusable SQL query functions to support modular analytics workflows
 
 ---
