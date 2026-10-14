@@ -10,7 +10,7 @@ This project demonstrates the complete analytics pipeline from raw data ingestio
 ## Key Features
 
 - Built a **relational SQLite database** from transaction-level data
-- Wrote optimized **SQL queries** to compute financial metrics
+- Wrote reusable **SQL queries** to compute financial metrics
 - Developed an **interactive Streamlit dashboard**
 - Implemented dynamic **filters** (category, transaction type, date range)
 - Computed key financial KPIs:
@@ -45,7 +45,7 @@ This project demonstrates the complete analytics pipeline from raw data ingestio
 
 ## Technical Highlights
 
-- **SQL-first design**: Core computations (aggregations, grouping, filtering) handled in SQL
+- **SQL-backed design**: Transaction data is stored and quiered in SQLite, with interactive filtering and analytics performed in pandas
 - **Separation of concerns**:
     - `create_database.py` -> data ingestion
     - `queries.py` -> SQL logic
